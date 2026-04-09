@@ -12,9 +12,9 @@
 
   '*## My Soft Skills:*'
 
--'*Time menagement*'
--'*comunication*'
--'*adaptalibity*'
+- '*Time menagement*'
+- '*comunication*'
+- '*adaptalibity*'
 
 `*## 📌 My projects:*`
 
